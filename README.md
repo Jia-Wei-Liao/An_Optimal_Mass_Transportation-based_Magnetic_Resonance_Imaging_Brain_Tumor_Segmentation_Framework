@@ -1,0 +1,2 @@
+# An_Optimal_Mass_Transportation-based_Magnetic_Resonance_Imaging_Brain_Tumor_Segmentation_Framework
+2022TWSIAM poster paper
